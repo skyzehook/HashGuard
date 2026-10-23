@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="HashGuard/HashGuard.vcxproj" Id="32ff7e1e-7481-499d-95fc-157b5aac7928" />
+</Solution>
